@@ -6,8 +6,8 @@ const items = [
   {
     id: 1,
     title: "Women's Shop",
-    img: "https://qph.cf2.quoracdn.net/main-qimg-bf7ba2b94a153b2a96a6661032453e18-pjlq",
-    desc: "Layout of the initial pages of a women's clothing website. Here you can select the product you like, add it to your cart, in the upper right corner you can open the cart and see the products you have added. You can also use the call request feature, which will open a new window for you. It is possible to open the product in a separate window and add it to the cart directly from there.",
+    img: "shop.png",
+    desc: "Layout page of the site of women's clothing. Here you can choose your favorite product, learn in detail about the new collection, add a product to your cart, in it you can see the products you have added, which can be removed if necessary, also separately calculates the amount of selected products. You can also use the order call function, which will open a new modal window for you. It is possible to open the product in a separate window and add it to the cart directly from there.",
     link: "https://github.com/3eJLeHcKuu/Womens-shop",
   },
   {
