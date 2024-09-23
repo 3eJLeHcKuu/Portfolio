@@ -46,8 +46,9 @@
   }
   .titleContainer {
     flex: 2;
-    flex-direction: column;
+    display: flex;
     align-items: center;
+    flex-direction: column;
 
     @include mobile {
       width: 100%;
