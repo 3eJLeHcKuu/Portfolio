@@ -41,6 +41,11 @@
     position: absolute;
     z-index: 2;
 
+    @include tablet {
+      background-position: unset;
+      height: 118%;
+    }
+
     @include mobile {
       background-size: contain;
       background-repeat: no-repeat;

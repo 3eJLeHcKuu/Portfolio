@@ -28,3 +28,5 @@ yarn-error.log*
 /.idea/prettier.xml
 /.idea/vcs.xml
 /.idea/watcherTasks.xml
+/package.json
+/package-lock.json
