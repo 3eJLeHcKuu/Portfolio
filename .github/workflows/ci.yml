@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-name: CI
-=======
+
 name: React CI
->>>>>>> origin/master
 
 on:
   push:
@@ -17,30 +14,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-<<<<<<< HEAD
-      - name: Checkout code
-=======
       - name: Checkout repository
->>>>>>> origin/master
         uses: actions/checkout@v2
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-<<<<<<< HEAD
           node-version: '18'
-=======
-          node-version: '18' 
->>>>>>> origin/master
 
       - name: Install dependencies
         run: npm install
 
       - name: Build the project
         run: npm run build
-
-<<<<<<< HEAD
-      - name: Run tests
-        run: npm test
-=======
->>>>>>> origin/master
