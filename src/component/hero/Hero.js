@@ -82,7 +82,7 @@ function Hero() {
         Wizard in the world of frontend
       </motion.div>
       <div className="imageContainer">
-        <img className="heroPng" src="/hero.png" alt="" />
+        <img className="heroPng" src="images/hero.png" alt="" />
       </div>
     </div>
   );

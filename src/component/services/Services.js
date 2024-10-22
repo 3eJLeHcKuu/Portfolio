@@ -42,7 +42,7 @@ function Services() {
       </motion.div>
       <motion.div className="titleContainer">
         <div className="title">
-          <img src="/people.png" alt="" />
+          <img src="images/people.png" alt="" />
           <h1>
             <motion.b whileHover={{ color: "rgb(255, 165, 0)" }}>
               Unique

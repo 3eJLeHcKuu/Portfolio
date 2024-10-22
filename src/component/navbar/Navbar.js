@@ -14,13 +14,13 @@ function Navbar() {
         ></motion.span>
         <div className="social">
           <a href="https://www.linkedin.com/in/vlad-kulakov/">
-            <img src="/linkedin.png" alt="" />
+            <img src="images/linkedin.png" alt="" />
           </a>
           <a href="https://t.me/Myssalini">
-            <img src="/telegram.png" alt="" />
+            <img src="images/telegram.png" alt="" />
           </a>
           <a href="https://www.instagram.com/dizzlike_/">
-            <img src="/instagram.png" alt="" />
+            <img src="images/instagram.png" alt="" />
           </a>
         </div>
       </div>
